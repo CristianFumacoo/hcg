@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605787182 source:c:\escritorio\cosasfacu\laboratorio\parcialparteuno\menu.c
+
+1605791757 source:c:\escritorio\cosasfacu\laboratorio\parcialparteuno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascotas.h"
+	"menu.h"
+
+1605792927 c:\escritorio\cosasfacu\laboratorio\parcialparteuno\mascotas.h
+
+1602718720 c:\escritorio\cosasfacu\laboratorio\parcialparteuno\menu.h
+
+1605792713 source:c:\escritorio\cosasfacu\laboratorio\parcialparteuno\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+
