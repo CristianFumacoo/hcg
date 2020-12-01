@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1606854010 source:c:\escritorio\cosasfacu\laboratorio\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"concur.h"
+	"LinkedList.h"
+	"Controller.h"
+	"menu.h"
+
+1606854699 source:c:\escritorio\cosasfacu\laboratorio\segundoparcial\concur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"concur.h"
+	"Controller.h"
+
+1606854549 c:\escritorio\cosasfacu\laboratorio\segundoparcial\concur.h
+	"LinkedList.h"
+
+1606855894 c:\escritorio\cosasfacu\laboratorio\segundoparcial\linkedlist.h
+
+1606856408 source:c:\escritorio\cosasfacu\laboratorio\segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1606854003 source:c:\escritorio\cosasfacu\laboratorio\segundoparcial\parser.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"concur.h"
+	"LinkedList.h"
+
+1606854003 source:c:\escritorio\cosasfacu\laboratorio\segundoparcial\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1606858009 source:c:\escritorio\cosasfacu\laboratorio\segundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"concur.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1606854003 c:\escritorio\cosasfacu\laboratorio\segundoparcial\controller.h
+
+1606356690 c:\escritorio\cosasfacu\laboratorio\segundoparcial\menu.h
+
